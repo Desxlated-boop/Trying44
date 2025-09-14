@@ -4,4 +4,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://desxlated-boop.github.io/Trying44/)
+- [Публичная страница на GitHub Pages](https://desxlated-boop.github.io/Trying44/src)
